@@ -1,5 +1,5 @@
 import "./styles.css";
-import GitHub from "./components/GitHub";
+import GitHub from "./components/GitHub/GitHub";
 
 export default function App() {
   return (

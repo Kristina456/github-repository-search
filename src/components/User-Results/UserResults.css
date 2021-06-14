@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+.c-user-results {
+  background-color: #161b22;
+  width: 100%;
+  margin-top: 20px;
+  padding: 20px;
+  display: inline-flex;
+}
+
+.c-user-results__informations {
+  flex: 0 0 30%;
+}
+
+.c-user-results__username-info__img {
+  width: 200px;
+}
+
+.c-user-results__username-info__info {
+  padding: 20px;
+  flex: 0 0 70%;
+  font-size: 20px;
+  background-color: #0d1117;
+}
+
+.username-info__info_name {
+  font-size: 40px;
+}
+
+.info__neme-login {
+  padding-bottom: 20px;
+}
+
+.user {
+  padding: 5px;
+}
+
+.repositories {
+  padding: 5px;
+}
+
+.repositories_name {
+  color: #58a6ff;
+}
+
+ul {
+  margin: 0px;
+}

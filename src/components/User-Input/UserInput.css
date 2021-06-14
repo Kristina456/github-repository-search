@@ -1,0 +1,14 @@
+.c-user-input {
+  padding: 10px;
+}
+
+.c-user-input__form {
+  width: 100%;
+  text-align: center;
+}
+
+.c-user-input_form__input {
+  min-height: 28px;
+  width: 80%;
+}
+

@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background-color: #44484d;
+  width: 100vw;
+  height: 100vh;
+  border: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+.App {
+  color: #c9d1d9;
+  width: 800px;
+  background-color: #0d1117;
+  height: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #383b3d;
+}
+
+.error {
+  color: red;
+}
