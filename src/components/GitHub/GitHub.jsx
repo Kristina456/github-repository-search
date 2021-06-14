@@ -51,7 +51,7 @@ export default function GitHub() {
         </div>
         <div>
           <div className="gitHub_heading_greeting">
-            GitHub repositories search
+            GitHub repository search
           </div>
         </div>
       </div>
