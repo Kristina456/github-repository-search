@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import UserResults from "../UserResults/UserResults";
-import UserInput from "../UserInput/UserInput";
+import UserResults from "../User-Results/UserResults";
+import UserInput from "../User-Input/UserInput";
 import githubLogo from "../Images/githubLogo.png";
 import "./GitHub.css";
 

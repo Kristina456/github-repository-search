@@ -18,5 +18,5 @@ $ npm start
 ## Images
 
 <p align="center">
-<img src="./src/components/Images/github-preview.jpg" width="600" height="auto">
+<img src="./src/components/Images/githubPreview.jpg" width="600" height="auto">
 </p>
