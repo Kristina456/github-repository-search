@@ -1,6 +1,6 @@
-# GitHub-repositories-search
+# GitHub-repository-search
 
-GitHub repositories search engine
+GitHub repository search engine
 
 ## Project is created with:
 
